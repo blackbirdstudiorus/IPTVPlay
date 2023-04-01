@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-group="Детские", Ani
 http://178.160.249.210:8000/play/a2tx/index.m3u8?1048*576_Ракета
-#EXTINF:-1 group-title="Детские", Ani SD
+#EXTINF:-1 group-title="Детские" tvg-id="ani", Ani SD
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8?720*576
