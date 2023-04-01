@@ -1,3 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-group="Детские", Ani
-http://31.148.48.15:80/Ani/index.m3u8?token=test&1048*576_Ракета=0
+http://178.160.249.210:8000/a2tx/index.m3u8?token=test&1048*576_Ракета=0
