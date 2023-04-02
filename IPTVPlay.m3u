@@ -39,3 +39,9 @@
   http://78.26.128.59:9876/play/110/index.m3u8
 #EXTINF:-1 group-title="Детские", TiJi 🟥 
   acestream://4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки
+  http://178.160.249.210:8000/play/a2v0/index.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки Full HD
+  https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки 🟥
+  http://127.0.0.1:6878/ace/m/d78c7a1da99696e3987563926a1cd31bff9c56bf/c041a8fa519450e2b45cc9a2c039d7d7.m3u8
