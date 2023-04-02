@@ -17,3 +17,5 @@ http://127.0.0.1:6878/ace/m/3f6a6aa05bd8e07a98e49fd7b00c9691a69164fc/73c2291c902
 http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8?1047*576
 #EXTINF:-1 group-title="Детские", Cartoon Network 🟥
 http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/0b971abb19c739b71c119d518b9a6337.m3u8
+#EXTINF:-1 group-title="Детские", DuckTV
+https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
