@@ -1,23 +1,29 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 #EXTINF:-1 group-title="Детские", Ani
-http://178.160.249.210:8000/play/a2tx/index.m3u8?1048*576_Ракета
+  http://178.160.249.210:8000/play/a2tx/index.m3u8?1048*576_Ракета
 #EXTINF:-1 group-title="Детские" tvg-id="ani", Ani SD
-http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8?720*576
+  http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8?720*576
 #EXTINF:-1 group-title="Детские" tvg-id="ani", Ani 🟥
-http://127.0.0.1:6878/ace/m/1a56fa1e4c2800c4bca035bc6b3b2cd425bb69dc/7c45dc82969d666fa0da387787e32757.m3u8?1048*576
+  http://127.0.0.1:6878/ace/m/1a56fa1e4c2800c4bca035bc6b3b2cd425bb69dc/7c45dc82969d666fa0da387787e32757.m3u8?1048*576
 #EXTINF:-1 group-title="Детские", Baby TV 🟥 
-http://127.0.0.1:6878/hls/r/9a45c1e738fc9d4f94c18a2d33f6115fe2dcd900/c7697b0737aa87a5f37e410237dda015.m3u8?1024*576
+  http://127.0.0.1:6878/hls/r/9a45c1e738fc9d4f94c18a2d33f6115fe2dcd900/c7697b0737aa87a5f37e410237dda015.m3u8?1024*576
 #EXTINF:-1 group-title="Детские", Cartoonito
-http://176.222.190.76/btv/SWM/Boomerang/Boomerang.m3u8
-#EXTINF:-1 group-title="Детские", Cartoonito HD
-https://stream01.vnet.am/Boomerang/mono.m3u8?1920*1080_VirusNet
+  http://176.222.190.76/btv/SWM/Boomerang/Boomerang.m3u8?1024*576_Билайн
+#EXTINF:-1 group-title="Детские", Cartoonito Full HD
+  https://stream01.vnet.am/Boomerang/mono.m3u8?1920*1080_VirusNet
 #EXTINF:-1 group-title="Детские", Cartoonito 🟥
-http://127.0.0.1:6878/ace/m/3f6a6aa05bd8e07a98e49fd7b00c9691a69164fc/73c2291c90221dc3032cdba502024259.m3u8
+  http://127.0.0.1:6878/ace/m/3f6a6aa05bd8e07a98e49fd7b00c9691a69164fc/73c2291c90221dc3032cdba502024259.m3u8?1024*576
 #EXTINF:-1 group-title="Детские", Cartoon Network
-http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8?1047*576
+  http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8?1047*576
 #EXTINF:-1 group-title="Детские", Cartoon Network 🟥
-http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/0b971abb19c739b71c119d518b9a6337.m3u8
+  http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/0b971abb19c739b71c119d518b9a6337.m3u8?1047*576
 #EXTINF:-1 group-title="Детские", DuckTV
-https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
+  https://okkotv-live.cdnvideo.ru/channel/DuckTV/480p.m3u8
+#EXTINF:-1 group-title="Детские", DuckTV HD
+  https://okkotv-live.cdnvideo.ru/channel/DuckTV/720p.m3u8
+#EXTINF:-1 group-title="Детские", DuckTV Full HD
+  https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 group-title="Детские",  Gulli Girl
-http://127.0.0.1:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&.mp4
+  http://77.240.45.106:18888/play/a02d?1047*576
+#EXTINF:-1 group-title="Детские",  Gulli Girl 🟥
+  http://127.0.0.1:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&.mp4?1047*576
