@@ -65,3 +65,5 @@
   http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD 🟧
   http://80.251.49.103:8003/play/89
+#EXTINF:-1 group-title="Детские", Мульт HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f&.mp4
