@@ -59,3 +59,5 @@
   http://127.0.0.1:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&.mp4
 #EXTINF:-1 group-title="Детские", Карусель Int.
   http://45.159.74.13:80/Karusel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детские", Лева HD
+  http://strm.yandex.ru/kal/leva/leva0.m3u8
