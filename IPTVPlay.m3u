@@ -49,3 +49,5 @@
   http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир 🟥
   http://127.0.0.1:6878/hls/r/c6fed6c54d9d213a423a1699fbdba590727b5902/5dd2ed999ff3b6581fa98e0078d05064.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="ginger-hd", Капитан Фантастика Full HD
+  http://176.222.190.76/btv/SWM/Fantastica_HD/Fantastica_HD.m3u8
