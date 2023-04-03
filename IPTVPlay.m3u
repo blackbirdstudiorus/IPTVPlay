@@ -45,6 +45,8 @@
   https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки 🟥
   http://127.0.0.1:6878/ace/m/d78c7a1da99696e3987563926a1cd31bff9c56bf/c041a8fa519450e2b45cc9a2c039d7d7.m3u8
+#EXTINF:-1 group-title="Детские", Детские мультфильмы
+  http://fs1.persik.by/484215/index.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир 
   http://streamer1.ruslanatv.ru/russia/detskiy_mir_2023/playlist.m3u8
 #EXTINF:-1 group-title="Детские", Детский мир 🟥
