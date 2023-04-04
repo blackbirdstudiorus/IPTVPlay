@@ -69,9 +69,9 @@
   http://80.251.49.103:8003/play/89
 #EXTINF:-1 group-title="Детские", Мульт HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f&.mp4
-#EXTINF:-1 group-title="Детские", Мультиландия
+#EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия
   https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/480p.m3u8
-#EXTINF:-1 group-title="Детские", Мультиландия HD
+#EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия HD
   https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/720p.m3u8
-#EXTINF:-1 group-title="Детские", Мультиландия Full HD
+#EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия Full HD
   https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
