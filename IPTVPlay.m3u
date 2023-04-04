@@ -75,3 +75,5 @@
   https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/720p.m3u8
 #EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия Full HD
   https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="multimania", Мультиландия Full HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
