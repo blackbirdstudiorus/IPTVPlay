@@ -85,3 +85,17 @@
   http://176.222.190.76/btv/SWM/O/O.m3u8
 #EXTINF:-1 group-title="Детские", О! 🟥
   http://127.0.0.1:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2&.mp4
+#EXTINF:-1 group-title="Детские", Радость моя
+  http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детские", Рыжий
+  http://176.222.190.76/btv/SWM/Ryzhyi/Ryzhyi.m3u8
+#EXTINF:-1 group-title="Детские", Рыжий 🟥
+  http://127.0.0.1:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
+#EXTINF:-1 group-title="Детские", Смайлик ТВ
+  https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids
+  http://46.19.99.11:4000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids HD
+  http://138.201.67.145:8081/stskids/index.m3u8
+#EXTINF:-1 group-title="Детские", СТС Kids HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
