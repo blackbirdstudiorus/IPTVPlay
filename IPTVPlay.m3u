@@ -40,7 +40,7 @@
 #EXTINF:-1 group-title="Детские" tvg-id="nicktoons", Nicktoons Full HD
   http://176.222.190.76/btv/SWM/nicktoons/nicktoons.m3u8?1920*1080_Beeline
 #EXTINF:-1 group-title="Детские", TiJi
-  http://78.26.128.59:9876/play/110/index.m3u8
+  http://178.160.249.210:8000/play/a2tz/index.m3u8
 #EXTINF:-1 group-title="Детские", TiJi 🟥 
   acestream://4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
 #EXTINF:-1 group-title="Детские" tvg-id="v-gostiax-u-skazki", В гостях у сказки
