@@ -17,6 +17,10 @@
   http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8?1047*576
 #EXTINF:-1 group-title="Детские", Cartoon Network 🟥
   http://127.0.0.1:6878/ace/m/5d52371d64c6f92b5c5b9eaf49db0912578c5c95/0b971abb19c739b71c119d518b9a6337.m3u8?1047*576
+#EXTINF:-1 group-title="Детские", Da Vinci
+  https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
+#EXTINF:-1 group-title="Детские", Da Vinci 🟥
+  http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
 #EXTINF:-1 group-title="Детские", DuckTV
   https://okkotv-live.cdnvideo.ru/channel/DuckTV/480p.m3u8
 #EXTINF:-1 group-title="Детские", DuckTV HD
@@ -99,3 +103,11 @@
   http://138.201.67.145:8081/stskids/index.m3u8
 #EXTINF:-1 group-title="Детские", СТС Kids HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
+#EXTINF:-1 group-title="Детские", СуперГерои
+  http://streamer1.ruslanatv.ru/russia/malish_2023/playlist.m3u8
+#EXTINF:-1 group-title="Детские", СуперГерои 🟥
+  http://127.0.0.1:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&.mp4
+#EXTINF:-1 group-title="Детские", Уникум
+  http://176.222.190.76/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
+#EXTINF:-1 group-title="Детские", Уникум 🟥
+  http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&.mp4
