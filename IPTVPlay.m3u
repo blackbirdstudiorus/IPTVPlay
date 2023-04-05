@@ -81,3 +81,7 @@
   http://178.160.249.210:8000/play/a2vb/index.m3u8
 #EXTINF:-1 group-title="Детские", Мультимузыка 🟥
   http://127.0.0.1:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
+#EXTINF:-1 group-title="Детские", О!
+  http://176.222.190.76/btv/SWM/O/O.m3u8
+#EXTINF:-1 group-title="Детские", О! 🟥
+  http://127.0.0.1:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2&.mp4
