@@ -135,3 +135,15 @@
   http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
 #EXTINF:-1 group-title="Спортивные", Fuel TV HD
   https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", KHL
+  http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl", KHL HD
+  http://31.148.48.15:80/KHL_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl", KHL Full HD
+  https://okkotv-live.cdnvideo.ru/dash/khl_hd_2/playlist.mpd
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl", KHL Full HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd", KHL Prime HD
+  http://31.148.48.15:80/KHL_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd", KHL Prime Full HD
+  https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
