@@ -147,5 +147,5 @@
   http://31.148.48.15:80/KHL_TV_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd", KHL Prime Full HD
   https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
-#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd", KHL Prime Full HD 🟥
+#EXTINF:-1 group-title="Спортивные" tvg-id="kxl-hd", KHL Prime Full HD 🟥 
   http://127.0.0.1:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
