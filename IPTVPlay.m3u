@@ -111,3 +111,11 @@
   http://176.222.190.76/btv/SWM/Detsky_SWM/Detsky_SWM.m3u8
 #EXTINF:-1 group-title="Детские", Уникум 🟥
   http://127.0.0.1:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&.mp4
+#EXTINF:-1 group-title="Спортивные", Eurosport 1
+  http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
+#EXTINF:-1 group-title="Спортивные", Eurosport 1 HD 🟥  
+  http://127.0.0.1:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
+#EXTINF:-1 group-title="Спортивные", Eurosport 2
+  http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
+#EXTINF:-1 group-title="Спортивные", Eurosport 2 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
