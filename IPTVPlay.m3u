@@ -121,3 +121,11 @@
   http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
 #EXTINF:-1 group-title="Спортивные", Eurosport 2 HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
+#EXTINF:-1 group-title="Спортивные", Extreme Sports
+  http://streamer1.ruslanatv.ru/russia/extreme_sports_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Extreme Sports 🟥
+  http://127.0.0.1:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
+#EXTINF:-1 group-title="Спортивные", Fast&Fun Box
+  http://178.160.249.210:8000/play/a2u9/index.m3u8
+#EXTINF:-1 group-title="Спортивные", Fast&Fun Box HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
