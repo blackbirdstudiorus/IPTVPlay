@@ -129,3 +129,7 @@
   http://178.160.249.210:8000/play/a2u9/index.m3u8
 #EXTINF:-1 group-title="Спортивные", Fast&Fun Box HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
+#EXTINF:-1 group-title="Спортивные", FightBox
+  http://hlstv.kem.211.ru/239.211.211.184/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", FightBox HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
