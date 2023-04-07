@@ -153,3 +153,7 @@
   http://94.230.240.17:8080/m1global/index.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="m1global", MMA TV Full HD
   http://hlstv.kem.211.ru/239.211.200.190/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Russian Extreme HD
+  http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
+#EXTINF:-1 group-title="Спортивные", Russian Extreme UHD
+  http://hlstv.kem.211.ru/239.211.200.63/stream.m3u8
