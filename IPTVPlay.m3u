@@ -163,3 +163,13 @@
   https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/720p.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport", Viju+ Sport Full HD
   https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
+#EXTINF:-1 group-title="Спортивные", Бокс ТВ
+  http://hlstv.kem.211.ru/239.211.211.14/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Бокс ТВ HD
+  http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Спортивные", Матч Премьер
+  http://streamer1.ruslanatv.ru/russia/match_premier_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч Премьер HD
+  http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч Премьер HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
