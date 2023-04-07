@@ -157,3 +157,9 @@
   http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
 #EXTINF:-1 group-title="Спортивные", Russian Extreme UHD
   http://hlstv.kem.211.ru/239.211.200.63/stream.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport", Viju+ Sport
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/480p.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport", Viju+ Sport HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/720p.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="viasat-sport", Viju+ Sport Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Sport_HD/1080p.m3u8
