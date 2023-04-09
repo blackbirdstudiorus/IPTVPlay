@@ -185,5 +185,3 @@
   http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-tv", Матч! Full HD 🟥
   http://127.0.0.1:6878/ace/m/f69b2859510dce33b992dd1940f95254c6e6f51c/7d83256f035711468367aec67d4e1426.m3u8
-#EXTINF:-1 group-title="Спортивные" tvg-id="match-tv", Матч! Full HD 🟥
-  http://127.0.0.1:6878/ace/m/f69b2859510dce33b992dd1940f95254c6e6f51c/7d83256f035711468367aec67d4e1426.m3u8
