@@ -175,5 +175,13 @@
   http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1 group-title="Спортивные", Матч!
   http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! 🟥
+  http://127.0.0.1:6878/hls/r/0a04b9a0fc12bd86ccdf8a9166255951d23ac30e/c25f3fe6713c9978311a31a1afa040c5.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! HD
+  http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 group-title="Спортивные", Матч! HD 🟥
+  http://127.0.0.1:6878/hls/r/fae62ebb8af40bf0df6551307b0dcdc101408f27/2956e2b34a3806e7b161f258c7e3e7d1.m3u8  
+#EXTINF:-1 group-title="Спортивные", Матч! Full HD
   http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Full HD 🟥
+  http://127.0.0.1:6878/ace/m/f69b2859510dce33b992dd1940f95254c6e6f51c/7d83256f035711468367aec67d4e1426.m3u8
