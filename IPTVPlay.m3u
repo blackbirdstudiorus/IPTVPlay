@@ -173,3 +173,7 @@
   http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч Премьер HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч!
+  http://streamer1.ruslanatv.ru/russia/matchtv_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! HD
+  http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
