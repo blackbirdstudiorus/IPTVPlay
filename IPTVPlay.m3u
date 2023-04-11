@@ -185,3 +185,9 @@
   http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="match-tv", Матч! Full HD 🟥
   http://127.0.0.1:6878/ace/m/f69b2859510dce33b992dd1940f95254c6e6f51c/7d83256f035711468367aec67d4e1426.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Арена
+  http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Арена HD
+  http://bl.uma.media/live/126868/HLS/16128000_4/4/4/playlist.m3u8?v2.MdSdyTZAoFTbeN9TXhzoXkkVKn-L4OZ5dklViX_htFY.SedCYPGao43JYRE8hSw6CKCv9ZDSKUpGts5Cq2Ufo8E.1678549058.4800c174b1238131dc4a64c3a8562cc0
+#EXTINF:-1 group-title="Спортивные", Матч! Арена HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
