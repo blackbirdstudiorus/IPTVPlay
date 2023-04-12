@@ -202,3 +202,4 @@
 #EXTINF:-1 group-title="Спортивные", Матч! Игра HD
   http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Игра HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
