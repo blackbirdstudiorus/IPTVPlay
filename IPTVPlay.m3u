@@ -23,7 +23,7 @@
   https://okkotv-live.cdnvideo.ru/channel/Da_Vinci.m3u8
 #EXTINF:-1 group-title="Детские", Da Vinci 🟥
   http://127.0.0.1:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
-#EXTINF:-1 group-title="Детские", Disney XD
+#EXTINF:-1 group-title="Детские" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/1584px-Disney_XD_-_2015_%28Purple%29.svg.png", Disney XD
   https://cdn.wasd.tv/live/1684244/index.m3u8
 #EXTINF:-1 group-title="Детские", DuckTV
   https://okkotv-live.cdnvideo.ru/channel/DuckTV/480p.m3u8
