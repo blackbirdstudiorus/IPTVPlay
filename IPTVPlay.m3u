@@ -209,9 +209,9 @@
   http://127.0.0.1:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
 #EXTINF:-1 group-title="Спортивные", Матч! Страна
   http://streamer1.ruslanatv.ru/russia/match_strana_2023/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Страна HD
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport", Матч! Страна HD
   https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные", Матч! Страна HD 🟥
+#EXTINF:-1 group-title="Спортивные" tvg-id="match-nash-sport", Матч! Страна HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
 #EXTINF:-1 group-title="Спортивные", Матч! Футбол 1
   http://streamer1.ruslanatv.ru/russia/match_futbol_1_2023/playlist.m3u8
@@ -221,5 +221,13 @@
   http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
 #EXTINF:-1 group-title="Спортивные", Матч! Футбол 2
   http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2 HD
+  http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
 #EXTINF:-1 group-title="Спортивные", Матч! Футбол 3
   http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD
+  http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
