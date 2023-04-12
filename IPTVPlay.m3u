@@ -257,3 +257,7 @@
   http://streamer1.ruslanatv.ru/russia/futbol_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", Футбол HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
+#EXTINF:-1 group-title="Спортивные", Футбольный 🟥
+  http://127.0.0.1:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
+#EXTINF:-1 group-title="Спортивные", Хоккейный 🟥 
+  http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
