@@ -219,3 +219,7 @@
   http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
 #EXTINF:-1 group-title="Спортивные", Матч! Футбол 1 HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 2
+  http://streamer1.ruslanatv.ru/russia/match_futbol_2_2023/playlist.m3u8
+#EXTINF:-1 group-title="Спортивные", Матч! Футбол 3
+  http://streamer1.ruslanatv.ru/russia/match_futbol_3_2023/playlist.m3u8
