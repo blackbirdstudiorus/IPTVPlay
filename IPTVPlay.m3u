@@ -285,3 +285,13 @@
   http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 group-title="Кино", Amedia Premium HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&.mp4
+#EXTINF:-1 group-title="Кино", .black
+  https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:-1 group-title="Кино", .black HD
+  https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/1080p.m3u8
+#EXTINF:-1 group-title="Кино", .black HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
+#EXTINF:-1 group-title="Кино", Bollywood HD
+  http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
+#EXTINF:-1 group-title="Кино", Bollywood HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
