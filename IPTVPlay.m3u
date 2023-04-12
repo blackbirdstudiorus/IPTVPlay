@@ -245,3 +245,5 @@
   http://streamer1.ruslanatv.ru/russia/mir_basketbola_2023/playlist.m3u8
 #EXTINF:-1 group-title="Спортивные", Мир Баскетбола 🟥
   http://127.0.0.1:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
+#EXTINF:-1 group-title="Спортивные", Спортивный 🟥
+  http://127.0.0.1:6878/ace/m/30cf0f8140006a03d60a4639c623f024b4e167ed/bf48f23b4e80d28642db161d27a93abe.m3u8
