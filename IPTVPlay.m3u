@@ -293,3 +293,11 @@
   http://176.222.190.76/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
 #EXTINF:-1 group-title="Кино", Bollywood HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
+#EXTINF:-1 group-title="Кино", Bolt
+  https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино", Bolt HD
+  https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", Cinema
+  http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
+#EXTINF:-1 group-title="Кино", Cinema Classic
+  http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
