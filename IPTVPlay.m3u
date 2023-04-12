@@ -281,3 +281,7 @@
   http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино", Amedia Hit HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
+#EXTINF:-1 group-title="Кино", Amedia Premium HD
+  http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 group-title="Кино", Amedia Premium HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&.mp4
