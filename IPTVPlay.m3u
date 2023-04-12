@@ -264,10 +264,20 @@
 #EXTINF:-1 group-title="Спортивные", Хоккейный 🟥 
   http://127.0.0.1:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
 #EXTINF:-1 group-title="Кино", A1
+  http://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино", A1 HD
   http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино", A1 🟥
+#EXTINF:-1 group-title="Кино", A1 HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&.mp4
 #EXTINF:-1 group-title="Кино", A2
+  http://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино", A2 HD
   http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
-#EXTINF:-1 group-title="Кино", A2 🟥
+#EXTINF:-1 group-title="Кино", A2 HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
+#EXTINF:-1 group-title="Кино", Amedia Hit
+  http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Hit HD
+  http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", Amedia Hit HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
