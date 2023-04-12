@@ -157,13 +157,13 @@
   http://127.0.0.1:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
 #EXTINF:-1 group-title="Спортивные", Russian Extreme UHD
   http://hlstv.kem.211.ru/239.211.200.63/stream.m3u8
-#EXTINF:-1 group-title="Спортивные", Setanta Sport 1 HD
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports", Setanta Sport 1 HD
   http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
-#EXTINF:-1 group-title="Спортивные", Setanta Sport 1 HD 🟥
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports", Setanta Sport 1 HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
-#EXTINF:-1 group-title="Спортивные", Setanta Sport 2 HD
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus", Setanta Sport 2 HD
   http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
-#EXTINF:-1 group-title="Спортивные", Setanta Sport 2 HD 🟥
+#EXTINF:-1 group-title="Спортивные" tvg-id="setanta-sports-plus", Setanta Sport 2 HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
 #EXTINF:-1 group-title="Спортивные", Setanta Qazaqstan
   http://176.222.190.76/btv/SWM/Sentanta_Kaz/Sentanta_Kaz.m3u8
