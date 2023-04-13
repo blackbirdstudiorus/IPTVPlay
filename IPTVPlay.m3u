@@ -327,3 +327,9 @@
   http://176.222.190.76/btv/SWM/FoxLife/FoxLife.m3u8
 #EXTINF:-1 group-title="Кино", Fox Life HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&.mp4
+#EXTINF:-1 group-title="Кино", Hollywood
+  http://176.222.190.76/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1 group-title="Кино", Hollywood HD
+  http://hlstv.kem.211.ru/239.211.200.5/stream.m3u8
+#EXTINF:-1 group-title="Кино", Hollywood HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&.mp4
