@@ -305,6 +305,10 @@
   http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://i.pinimg.com/originals/57/8d/5a/578d5a58d29d83bc901c37007af0903e.png", Cinema Classic
   http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 group-title="Кино", Comedy Central HD
+  http://176.222.190.76/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
+#EXTINF:-1 group-title="Кино", Comedy Central HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=5680521f0e507f2c6f55f3de8dd79351615116c5&.mp4
 #EXTINF:-1 group-title="Кино", FAN 🟧
   http://94.230.240.17:8080/fan/index.m3u8
 #EXTINF:-1 group-title="Кино", FAN HD
