@@ -333,3 +333,7 @@
   http://hlstv.kem.211.ru/239.211.200.5/stream.m3u8
 #EXTINF:-1 group-title="Кино", Hollywood HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&.mp4
+#EXTINF:-1 group-title="Кино", KinoJam 1
+  http://hlstv.kem.211.ru/239.211.200.87/stream.m3u8
+#EXTINF:-1 group-title="Кино", KinoJam 2
+  http://hlstv.kem.211.ru/239.211.200.88/stream.m3u8
