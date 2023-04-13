@@ -33,6 +33,8 @@
   https://okkotv-live.cdnvideo.ru/channel/DuckTV/1080p.m3u8
 #EXTINF:-1 group-title="Детские", FamilyJam
   http://hlstv.kem.211.ru/239.211.200.90/stream.m3u8
+#EXTINF:-1 group-title="Детские" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/foxkids-logo-black-and-white.png", Fox Kids
+  https://hls.goodgame.ru/hls/179445.m3u8
 #XTINF:-1 group-title="Детские", Gulli Girl
   http://77.240.45.106:18888/play/a02d?1047*576_NLS
 #EXTINF:-1 group-title="Детские", Gulli Girl 🟥
@@ -303,5 +305,5 @@
   https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино", Cinema
   http://hlstv.kem.211.ru/239.211.211.106/stream.m3u8
-#EXTINF:-1 group-title="Кино", Cinema Classic
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.pinimg.com/originals/57/8d/5a/578d5a58d29d83bc901c37007af0903e.png", Cinema Classic
   http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
