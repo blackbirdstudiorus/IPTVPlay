@@ -77,6 +77,8 @@
   http://strm.yandex.ru/kal/leva/leva0.m3u8
 #EXTINF:-1 group-title="Детские", Мульт
   http://176.222.190.76/btv/SWM/SWM_Mult/SWM_Mult.m3u8
+#EXTINF:-1 group-title="Детские", Мульт HD
+  http://176.222.190.76:80/btv/SWM/SWM_Mult/SWM_Mult_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Детские", Мульт HD 🟧
   http://80.251.49.103:8003/play/89
 #EXTINF:-1 group-title="Детские", Мульт HD 🟥
