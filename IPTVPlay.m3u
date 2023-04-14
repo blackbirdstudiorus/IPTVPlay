@@ -66,7 +66,9 @@
 #EXTINF:-1 group-title="Детские" tvg-id="ginger-hd", Капитан Фантастика 🟥
   http://127.0.0.1:6878/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&.mp4
 #EXTINF:-1 group-title="Детские", Карусель
-  http://188.68.16.246:43800/play/a00k
+  https://livehlsvgtrkrf.cdnvideo.ru:443/hls/karusel/playlist_3.m3u8
+#EXTINF:-1 group-title="Детские" tvg-id="karusel", Карусель HD
+  https://livehlsvgtrkrf.cdnvideo.ru:443/hls/karusel/playlist_4.m3u8
 #EXTINF:-1 group-title="Детские", Карусель 🟥
   http://127.0.0.1:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&.mp4
 #EXTINF:-1 group-title="Детские", Карусель Int.
