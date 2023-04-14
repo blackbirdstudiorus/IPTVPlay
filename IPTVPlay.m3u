@@ -343,5 +343,5 @@
   http://hlstv.kem.211.ru/239.211.200.88/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b", Plan B
   http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
-#EXTINF:-1 group-title="Кино", Plan B HD
+#EXTINF:-1 group-title="Кино" tvg-id="plan-b", Plan B HD
   http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
