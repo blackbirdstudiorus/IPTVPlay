@@ -345,3 +345,11 @@
   http://176.222.190.76/btv/SWM/plan_b/plan_b.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="plan-b", Plan B HD
   http://hlstv.kem.211.ru/239.211.200.50/stream.m3u8
+#EXTINF:-1 group-title="Кино", .red
+  http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+#EXTINF:-1 group-title="Кино", .red HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
+#EXTINF:-1 group-title="Кино", .sci-fi 
+  https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1 group-title="Кино", .sci-fi HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
