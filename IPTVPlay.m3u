@@ -393,7 +393,7 @@
   http://hlstv.kem.211.ru/239.211.200.64/stream.m3u8
 #EXTINF:-1 group-title="Кино", Ultra HD Cinema 🟥
   http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
-#EXTINF:-1 group-title="Кино", VHS-ка HD
+#EXTINF:-1 group-title="Кино" tvg-id="vhs-ka", VHS-ка HD
   http://hlstv.kem.211.ru/239.211.200.32/stream.m3u8
 #EXTINF:-1 group-title="Кино", Viasat Kino
   http://89.254.128.5:22280/tv1000/video.m3u8
