@@ -357,3 +357,15 @@
   https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
 #EXTINF:-1 group-title="Кино", .sci-fi HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
+#EXTINF:-1 group-title="Кино" tvg-id="star-cinema", Star Cinema
+  https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="star-cinema", Star Cinema HD
+  https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="star-cinema", Star Cinema Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="star-family", Star Family
+  https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="star-family", Star Family HD
+  https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="star-family", Star Family Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8  
