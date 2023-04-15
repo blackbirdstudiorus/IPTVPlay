@@ -368,4 +368,16 @@
 #EXTINF:-1 group-title="Кино" tvg-id="star-family", Star Family HD
   https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/720p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="star-family", Star Family Full HD
-  https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8  
+  https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", Start Air 
+  https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="start-air", Start Air HD
+  https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="start-air", Start Air Full HD
+  https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", Start World
+  https://okkotv-live.cdnvideo.ru/channel/START_World_HD/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="start-world", Start World HD
+  https://okkotv-live.cdnvideo.ru/channel/START_World_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="start-world", Start World Full HD
+  https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
