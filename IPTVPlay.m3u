@@ -385,3 +385,11 @@
   http://hlstv.kem.211.ru/239.211.211.115/stream.m3u8
 #EXTINF:-1 group-title="Кино", Trash
   http://176.222.190.76/btv/SWM/trash_hd/trash_hd.m3u8
+#EXTINF:-1 group-title="Кино", TV XXI
+  http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
+#EXTINF:-1 group-title="Кино", TV XXI 🟥
+  http://127.0.0.1:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&.mp4
+#EXTINF:-1 group-title="Кино", Ultra HD Cinema
+  http://hlstv.kem.211.ru/239.211.200.64/stream.m3u8
+#EXTINF:-1 group-title="Кино", Ultra HD Cinema 🟥
+  http://127.0.0.1:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
