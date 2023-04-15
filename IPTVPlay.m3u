@@ -402,9 +402,9 @@
 #EXTINF:-1 group-title="Кино", Viasat Kino World 🟥
   http://127.0.0.1:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
 #EXTINF:-1 group-title="Кино", Viju TV1000
-  https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+  https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000", Viju TV1000 HD
-  https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+  https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/720p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="tv1000", Viju TV1000 Full HD
   https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино", Viju TV1000 World 🟧
