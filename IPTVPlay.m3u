@@ -449,3 +449,9 @@
   http://hlstv.kem.211.ru/239.211.200.38/stream.m3u8
 #EXTINF:-1 group-title="Кино", Блокбастер HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&.mp4
+#EXTINF:-1 group-title="Кино", Дом кино
+  http://hlstv.kem.211.ru/239.211.211.103/stream.m3u8
+#EXTINF:-1 group-title="Кино", Дом кино Премиум HD
+  http://176.222.190.76/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
+#EXTINF:-1 group-title="Кино", Дом кино Премиум HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&.mp4
