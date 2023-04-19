@@ -469,3 +469,9 @@
   http://176.222.190.76/btv/SWM/Illuzion-Plus_SWM/Illuzion-Plus_SWM.m3u8
 #EXTINF:-1 group-title="Кино", Иллюзион+ 🟥
   http://127.0.0.1:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&.mp4
+#EXTINF:-1 group-title="Кино", Индийское кино
+  http://hlstv.kem.211.ru/239.211.211.154/stream.m3u8
+#EXTINF:-1 group-title="Кино", Индийское кино 🟥
+  http://127.0.0.1:6878/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&.mp4
+#EXTINF:-1 group-title="Кино", Индия
+  http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8
