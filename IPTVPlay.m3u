@@ -425,23 +425,23 @@
   https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/480p.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Comedy HD
   https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Comedy Full HD
+#EXTINF:-1 group-title="Кино" tvg-id="vip-comedy", Viju+ Comedy Full HD
   https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Megahit
   https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/480p.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Megahit HD
   https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Megahit Full HD
+#EXTINF:-1 group-title="Кино" tvg-id="vip-megahit", Viju+ Megahit Full HD
   https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8 
 #EXTINF:-1 group-title="Кино", Viju+ Premiere 
   https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/480p.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Premiere HD
   https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Premiere Full HD
+#EXTINF:-1 group-title="Кино" tvg-id="vip-premiere", Viju+ Premiere Full HD
   https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial
   https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/480p.m3u8
 #EXTINF:-1 group-title="Кино", Viju+ Serial HD
   https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/720p.m3u8
-#EXTINF:-1 group-title="Кино", Viju+ Serial Full HD
+#EXTINF:-1 group-title="Кино" tvg-id="vip-serial", Viju+ Serial Full HD
   https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
