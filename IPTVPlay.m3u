@@ -475,3 +475,13 @@
   http://127.0.0.1:6878/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&.mp4
 #EXTINF:-1 group-title="Кино", Индия
   http://hlstv.kem.211.ru/239.211.211.84/stream.m3u8
+#EXTINF:-1 group-title="Кино", Камеди 🟧
+  http://185.23.80.28:8080/Camedi/index.m3u8
+#EXTINF:-1 group-title="Кино", Камеди 🟥
+  http://127.0.0.1:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&.mp4
+#EXTINF:-1 group-title="Кино", Кинеко
+  https://okkotv-live.cdnvideo.ru/channel/Fox_HD/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко HD
+  https://okkotv-live.cdnvideo.ru/channel/Fox_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
