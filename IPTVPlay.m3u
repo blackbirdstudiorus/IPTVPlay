@@ -455,3 +455,9 @@
   http://176.222.190.76/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1 group-title="Кино", Дом кино Премиум HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&.mp4
+#EXTINF:-1 group-title="Кино", Дорама
+  http://streamer1.ruslanatv.ru/russia/dorama_2023/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Дорама HD
+  http://176.222.190.76/btv/SWM/Dorama/Dorama.m3u8
+#EXTINF:-1 group-title="Кино", Дорама HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&.mp4
