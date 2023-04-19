@@ -461,3 +461,7 @@
   http://176.222.190.76/btv/SWM/Dorama/Dorama.m3u8
 #EXTINF:-1 group-title="Кино", Дорама HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&.mp4
+#EXTINF:-1 group-title="Кино", Еврокино
+  http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
+#EXTINF:-1 group-title="Кино", Еврокино 🟥
+  http://127.0.0.1:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&.mp4
