@@ -485,3 +485,11 @@
   https://okkotv-live.cdnvideo.ru/channel/Fox_HD/720p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко Full HD
   https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", Кино UHD
+  http://127.0.0.1:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
+#EXTINF:-1 group-title="Кино", Кино ТВ
+  http://hlstv.kem.211.ru/239.211.211.86/stream.m3u8
+#EXTINF:-1 group-title="Кино", Кино ТВ HD
+  http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Кино ТВ HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&.mp4
