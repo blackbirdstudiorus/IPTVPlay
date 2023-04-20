@@ -493,6 +493,15 @@
   http://31.148.48.15:80/Kino_TV_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Кино", Кино ТВ HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&.mp4
+#EXTINF:-1 group-title="Кино", Кинокомедия
   http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Кинокомедия HD
   http://hlstv.kem.211.ru/239.211.200.139/stream.m3u8
+#EXTINF:-1 group-title="Кино", Кинокомедия HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2&.mp4
+#EXTINF:-1 group-title="Кино", Киномикс
+  http://streamer1.ruslanatv.ru/russia/kinomix_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Киномикс HD
+  http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
+#EXTINF:-1 group-title="Кино", Киномикс HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&.mp4
