@@ -505,3 +505,7 @@
   http://hlstv.kem.211.ru/239.211.200.194/stream.m3u8
 #EXTINF:-1 group-title="Кино", Киномикс HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&.mp4
+#EXTINF:-1 group-title="Кино", Кинопоказ
+  http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Кинопоказ HD
+  http://31.148.48.15:80/Kinopokaz/index.m3u8?token=test
