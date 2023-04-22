@@ -525,3 +525,19 @@
   https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Киносемья HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
+#EXTINF:-1 group-title="Кино", Киносерия
+  http://93.125.34.51:30002/MnogoTV/index.m3u8
+#EXTINF:-1 group-title="Кино", Киносерия HD
+  http://hlstv.kem.211.ru/239.211.200.44/stream.m3u8
+#EXTINF:-1 group-title="Кино", Киносерия HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&.mp4
+#EXTINF:-1 group-title="Кино", Киноужас HD
+  http://hlstv.kem.211.ru/239.211.200.43/stream.m3u8
+#EXTINF:-1 group-title="Кино", Киноужас HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7&.mp4
+#EXTINF:-1 group-title="Кино", Кинохит
+  http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
+#EXTINF:-1 group-title="Кино", Кинохит HD
+  https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 group-title="Кино", Кинохит HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586&.mp4
