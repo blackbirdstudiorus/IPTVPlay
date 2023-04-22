@@ -559,3 +559,9 @@
   http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mosfilm", Мосфильм. Золотая коллекция HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
+#EXTINF:-1 group-title="Кино", Мужское кино
+  http:\\79.141.211.254:8000\MuzhKino
+#EXTINF:-1 group-title="Кино", Мужское кино HD
+  http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
+#EXTINF:-1 group-title="Кино", Мужское кино HD 🟥
+  http:\\127.0.0.1:6878\ace\getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&.mp4
