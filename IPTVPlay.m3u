@@ -541,3 +541,9 @@
   https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Кинохит HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586&.mp4
+#EXTINF:-1 group-title="Кино", Комедийное HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c&.mp4
+#EXTINF:-1 group-title="Кино", Комедия
+  http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
+#EXTINF:-1 group-title="Кино", Комедия 🟥
+  http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
