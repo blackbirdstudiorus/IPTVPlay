@@ -565,3 +565,7 @@
   http://hlstv.kem.211.ru/239.211.200.31/stream.m3u8
 #EXTINF:-1 group-title="Кино", Мужское кино HD 🟥
   http:\\127.0.0.1:6878\ace\getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&.mp4
+#EXTINF:-1 group-title="Кино", Наш кинопоказ HD
+  http:\\193.33.88.172\nash_kinopokaz_hd\tracks-v1a1\mono.m3u8
+#EXTINF:-1 group-title="Кино", Наш кинопоказ HD 🟥
+  http:\\127.0.0.1:6878\ace\getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
