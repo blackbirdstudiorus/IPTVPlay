@@ -553,3 +553,9 @@
   http://176.222.190.76/btv/SWM/mir_seriala/mir_seriala.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="mir-seriala", Мир сериала HD
   http://93.125.34.51:30002/Mir_seriala/index.m3u8
+#EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
+  http://176.222.190.76/btv/SWM/mosfilm/mosfilm.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="mosfilm", Мосфильм. Золотая коллекция HD
+  http://hlstv.kem.211.ru/239.211.200.42/stream.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="mosfilm", Мосфильм. Золотая коллекция HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
