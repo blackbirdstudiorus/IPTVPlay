@@ -547,6 +547,8 @@
   http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
 #EXTINF:-1 group-title="Кино", Комедия 🟥
   http://127.0.0.1:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
+#EXTINF:-1 group-title="Кино", Любимое
+  http://hez1-flu.iptvstream.site/85/tracks-v1a1/mono.m3u8?token=179631%2C%2C%2C3738276381
 #EXTINF:-1 group-title="Кино", Любимое 🟥
   http://127.0.0.1:6878/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
 #EXTINF:-1 group-title="Кино", Мир сериала
@@ -566,6 +568,6 @@
 #EXTINF:-1 group-title="Кино", Мужское кино HD 🟥
   http:\\127.0.0.1:6878\ace\getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&.mp4
 #EXTINF:-1 group-title="Кино", Наш кинопоказ HD
-  http:\\193.33.88.172\nash_kinopokaz_hd\tracks-v1a1\mono.m3u8
+  http://hez1-flu.iptvstream.site/89/tracks-v1a1/mono.m3u8?token=179631%2C%2C%2C3738276381
 #EXTINF:-1 group-title="Кино", Наш кинопоказ HD 🟥
   http:\\127.0.0.1:6878\ace\getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
