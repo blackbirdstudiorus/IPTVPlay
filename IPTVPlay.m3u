@@ -597,3 +597,13 @@
   https://cdn.ntv.ru:443/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ Хит HD
   https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Кино", Остросюжетное HD
+  http://hez1-flu.iptvstream.site/294/tracks-v1a1/mono.m3u8?token=146552%2C%2C%2C5323474066
+#EXTINF:-1 group-title="Кино", Остросюжетное HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&.mp4
+#EXTINF:-1 group-title="Кино", Премиальное HD
+  http://127.0.0.1:6878/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&.mp4
+#EXTINF:-1 group-title="Кино", Про любовь HD
+  http://hez1-flu.iptvstream.site/94/tracks-v1a1/mono.m3u8?token=146552%2C%2C%2C5323474066
+#EXTINF:-1 group-title="Кино", Про любовь HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563&.mp4
