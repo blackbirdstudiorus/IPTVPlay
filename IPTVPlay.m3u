@@ -589,3 +589,11 @@
   http://hlstv.kem.211.ru/239.211.211.107/stream.m3u8
 #EXTINF:-1 group-title="Кино", НСТ 🟥
   http://127.0.0.1:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&.mp4
+#EXTINF:-1 group-title="Кино", НТВ Сериал
+  https://cdn.ntv.ru:443/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ Сериал HD
+  https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Кино", НТВ Хит
+  https://cdn.ntv.ru:443/th_hit/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ Хит HD
+  https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
