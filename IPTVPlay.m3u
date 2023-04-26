@@ -581,3 +581,7 @@
   http://streamer1.ruslanatv.ru/russia/nashemujskoe_2023/playlist.m3u8
 #EXTINF:-1 group-title="Кино", Наше мужское HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507&.mp4
+#EXTINF:-1 group-title="Кино", Наше новое кино
+  http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
+#EXTINF:-1 group-title="Кино", Наше новое кино HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
