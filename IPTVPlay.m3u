@@ -571,3 +571,7 @@
   http://hez1-flu.iptvstream.site/89/tracks-v1a1/mono.m3u8?token=179631%2C%2C%2C3738276381
 #EXTINF:-1 group-title="Кино", Наш кинопоказ HD 🟥
   http:\\127.0.0.1:6878\ace\getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
+#EXTINF:-1 group-title="Кино", Наше любимое кино
+  http://176.222.190.76/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino.m3u8
+#EXTINF:-1 group-title="Кино", Наше любимое кино HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&.mp4
