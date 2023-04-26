@@ -585,3 +585,7 @@
   http://hlstv.kem.211.ru/239.211.211.143/stream.m3u8
 #EXTINF:-1 group-title="Кино", Наше новое кино HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
+#EXTINF:-1 group-title="Кино", НСТ
+  http://hlstv.kem.211.ru/239.211.211.107/stream.m3u8
+#EXTINF:-1 group-title="Кино", НСТ 🟥
+  http://127.0.0.1:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&.mp4
