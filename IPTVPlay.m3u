@@ -621,3 +621,19 @@
   http://127.0.0.1:6878/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&.mp4
 #EXTINF:-1 group-title="Кино", Романтичное HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
+#EXTINF:-1 group-title="Кино", Русский бестселлер
+  http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
+#EXTINF:-1 group-title="Кино", Русский бестселлер 🟥
+  http://127.0.0.1:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
+#EXTINF:-1 group-title="Кино", Русский детектив
+  http://hlstv.kem.211.ru/239.211.211.95/stream.m3u8
+#EXTINF:-1 group-title="Кино", Русский детектив 🟥
+  http://127.0.0.1:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
+#EXTINF:-1 group-title="Кино", Русский иллюзион
+  http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский иллюзион 🟥
+  http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
+#EXTINF:-1 group-title="Кино" tvg-id="russky-illuzion", Русский иллюзион Int
+  https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1 group-title="Кино", Русский роман
+  http://193.33.88.172/russki_roman_hd/tracks-v1a1/mono.m3u8
