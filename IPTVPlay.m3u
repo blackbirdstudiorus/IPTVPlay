@@ -637,3 +637,9 @@
   https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
 #EXTINF:-1 group-title="Кино", Русский роман
   http://193.33.88.172/russki_roman_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Сапфир
+  https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/480p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="sapfir", Сапфир HD
+  https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="sapfir", Сапфир Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
