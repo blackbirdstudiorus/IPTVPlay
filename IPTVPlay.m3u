@@ -643,3 +643,7 @@
   https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-id="sapfir", Сапфир Full HD
   https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кино", Сериал UHD
+  http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
+#EXTINF:-1 group-title="Кино", Страшное HD
+  http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&.mp4
