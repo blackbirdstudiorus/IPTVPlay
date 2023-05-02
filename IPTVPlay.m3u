@@ -663,3 +663,39 @@
   http://37.29.23.129:4000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Кино", Шокирующее HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
+#EXTINF:-1 group-title="Познавательные", 365 дней
+  http://hlstv.kem.211.ru/239.211.200.138/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal Planet HD
+  http://176.222.190.76/btv/SWM/animal_hd/animal_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", Animal Planet HD 🟥
+  http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
+#EXTINF:-1 group-title="Познавательные", Big Planet
+  http://176.222.190.76/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery
+  http://streamer1.ruslanatv.ru/russia/discovery_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery HD
+  http://176.222.190.76/btv/SWM/discovery_hd/discovery_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
+#EXTINF:-1 group-title="Познавательные", Discovery Science HD
+  http://93.125.34.51:30002/DiscoveryScience/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Discovery Science HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
+#EXTINF:-1 group-title="Познавательные", Docubox
+  http://178.160.249.200:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Познавательные", English Club TV
+  http://176.222.190.76/btv/SWM/English_Club_TV/English_Club_TV.m3u8
+#EXTINF:-1 group-title="Познавательные", HDL
+  http://93.125.34.51:30002/HDLife/index.m3u8
+#EXTINF:-1 group-title="Познавательные", History HD
+  http://176.222.190.76/btv/SWM/HistoryHD/HistoryHD.m3u8
+#EXTINF:-1 group-title="Познавательные", History2 HD
+  http://edge04.beetv.kz:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Познавательные", Insight UHD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
+#EXTINF:-1 group-title="Познавательные", Love Nature 4k
+  http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
+#EXTINF:-1 group-title="Познавательные", Nano
+  http://hlstv.kem.211.ru/239.211.211.94/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Nano 🟥
+  http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
