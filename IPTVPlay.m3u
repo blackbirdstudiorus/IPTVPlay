@@ -647,3 +647,19 @@
   http://127.0.0.1:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
 #EXTINF:-1 group-title="Кино", Страшное HD
   http://127.0.0.1:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&.mp4
+#EXTINF:-1 group-title="Кино", Тайна
+  http://hlstv.kem.211.ru/239.211.211.124/stream.m3u8
+#EXTINF:-1 group-title="Кино", Феникс+Кино
+  http://hlstv.kem.211.ru/239.211.211.72/stream.m3u8
+#EXTINF:-1 group-title="Кино", Феникс+Кино 🟥
+  http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
+#EXTINF:-1 group-title="Кино", Хит 
+  http://hez1-flu.iptvstream.site/99/tracks-v1a1/mono.m3u8?token=361702%2C%2C%2C7286203277
+#EXTINF:-1 group-title="Кино", Хит 🟧
+  http://185.23.80.26:8080/lb/Xit/index.m3u8
+#EXTINF:-1 group-title="Кино", Хит 🟥
+  http://127.0.0.1:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
+#EXTINF:-1 group-title="Кино", Шокирующее
+  http://37.29.23.129:4000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Кино", Шокирующее HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
