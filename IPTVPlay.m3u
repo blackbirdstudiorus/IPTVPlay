@@ -693,7 +693,7 @@
   http://edge04.beetv.kz:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные", Insight UHD 🟥
   http://127.0.0.1:6878/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68&.mp4
-#EXTINF:-1 group-title="Познавательные", Love Nature 4k
+#EXTINF:-1 group-title="Познавательные", Love Nature 4k 🟥
   http://127.0.0.1:6878/ace/getstream?infohash=cd8c7fcc7fb8c597d64b41429e0596887e097e54&pid=38900686757&.mp4
 #EXTINF:-1 group-title="Познавательные", Nano HD
   http://hlstv.kem.211.ru/239.211.211.94/stream.m3u8
