@@ -765,3 +765,5 @@
   https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/720p.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature-history-hd", Viju+ Planet Full HD
   https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
+#EXTINF:-1 group-title="Познавательные", Лапки Live
+  http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
