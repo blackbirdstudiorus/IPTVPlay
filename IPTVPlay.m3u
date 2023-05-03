@@ -725,3 +725,19 @@
   http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Top Secret
   https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:-1 group-title="Познавательные", Trace Sport Stars HD
+  https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel Channel
+  http://91.233.215.250:7272/07pqiSOeAdHpghx
+#EXTINF:-1 group-title="Познавательные", Travel Channel HD 🟧
+  http://176.107.250.4:8002/ch171
+#EXTINF:-1 group-title="Познавательные", Travel Channel HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure
+  http://176.107.250.4:8001/ch24
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure HD
+  http://hlstv.kem.211.ru/239.211.200.7/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Travel+Adventure HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
+#EXTINF:-1 group-title="Познавательные", Travel&Adventure HD
+  http://45.142.213.81:8001/playlist.m3u8
