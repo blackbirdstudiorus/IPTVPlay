@@ -723,3 +723,5 @@
   http://93.125.34.51:30002/NationalGeographic/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru", Terra HD
   http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Top Secret
+  https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
