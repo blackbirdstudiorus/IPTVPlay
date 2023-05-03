@@ -739,3 +739,23 @@
   http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel&adventure.png", Travel&Adventure HD
   http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", TV BRICS
+  http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju Explore
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/480p.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju Explore HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/720p.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-explore", Viju Explore Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju History
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/480p.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju History HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/720p.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-history", Viju History Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju Nature
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/480p.m3u8
+#EXTINF:-1 group-title="Познавательные", Viju Nature HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/720p.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="viasat-nature", Viju Nature Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
