@@ -769,3 +769,21 @@
   http://176.222.190.76/btv/SWM/Zoopark_SWM/Zoopark_SWM.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/IMG_20230503_220239-transformed.png", Лапки Live
   http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Арсенал HD
+  http://45.143.108.104:80/arsenal/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Арсенал HD 🟧
+  http://185.23.80.26:8080/lb/Arsenal_HD/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Арсенал HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&.mp4
+#EXTINF:-1 group-title="Познавательные", Большая Азия
+  https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Большая Азия HD
+  https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных HD
+  http://94.158.54.107/82/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", В мире животных HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
+#EXTINF:-1 group-title="Познавательные", Доктор
+  http://hlstv.kem.211.ru/239.211.211.67/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Доктор 🟥
+  http://127.0.0.1:6878/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&.mp4
