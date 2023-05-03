@@ -699,3 +699,15 @@
   http://hlstv.kem.211.ru/239.211.211.94/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Nano HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
+#EXTINF:-1 group-title="Познавательные", National Geographic
+  http://45.159.74.13:80/NationalGeographic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic HD
+  http://176.222.190.76/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+#EXTINF:-1 group-title="Познавательные", National Geographic HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0&.mp4
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild
+  http://178.160.249.200:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD
+  http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
+#EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
