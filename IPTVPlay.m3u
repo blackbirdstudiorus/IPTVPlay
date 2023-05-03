@@ -711,3 +711,15 @@
   http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
 #EXTINF:-1 group-title="Познавательные", Nat Geo Wild HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
+#EXTINF:-1 group-title="Познавательные", Ocean TV
+  http://93.125.34.51:30002/OCEAN-TV/index.m3u8
+#EXTINF:-1 group-title="Познавательные", RTG HD
+  https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 group-title="Познавательные", RTG International 🟧
+  http://88.216.83.245/rtg/index.m3u8
+#EXTINF:-1 group-title="Познавательные", RTG TV
+  http://hlstv.kem.211.ru/239.211.211.49/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Terra
+  http://93.125.34.51:30002/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="terra-ru", Terra HD
+  http://hlstv.kem.211.ru/239.211.200.16/stream.m3u8
