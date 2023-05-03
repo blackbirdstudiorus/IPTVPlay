@@ -739,5 +739,5 @@
   http://hlstv.kem.211.ru/239.211.200.7/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Travel+Adventure HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
-#EXTINF:-1 group-title="Познавательные", Travel&Adventure HD
+#EXTINF:-1 group-title="Познавательные" tvg-id="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/travel&adventure.png", Travel&Adventure HD
   http://45.142.213.81:8001/playlist.m3u8
