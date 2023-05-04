@@ -797,5 +797,11 @@
   http://176.222.190.76/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Природа HD
   http://hlstv.kem.211.ru/239.211.200.27/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Звезда Плюс 🟧
+  http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Зоо ТВ
+  http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", История
+  http://hlstv.kem.211.ru/239.211.211.55/stream.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/IMG_20230503_220239-transformed.png", Лапки Live
   http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
