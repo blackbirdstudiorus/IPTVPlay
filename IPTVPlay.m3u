@@ -819,3 +819,15 @@
   http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
 #EXTINF:-1 group-title="Познавательные", МосОбр ТВ
   http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя Планета
+  http://streamer1.ruslanatv.ru/russia/moya_planeta_2023/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя Планета HD
+  http://176.222.190.76/btv/SWM/PlanetaHD/PlanetaHD.m3u8
+#EXTINF:-1 group-title="Познавательные", Моя Планета HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14&.mp4
+#EXTINF:-1 group-title="Познавательные", Наука 2.0
+  http://hlstv.kem.211.ru/239.211.211.10/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Наука 2.0 HD
+  http://31.148.48.15:80/Nauka_2.0/index.m3u8?token=test
+#EXTINF:-1 group-title="Познавательные", Наука 2.0 HD 🟥
+  http://127.0.0.1:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&.mp4
