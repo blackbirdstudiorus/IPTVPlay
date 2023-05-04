@@ -803,5 +803,19 @@
   http://31.148.48.15:80/Zoo_TV/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные", История
   http://hlstv.kem.211.ru/239.211.211.55/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Ключ HD
+  http://176.222.190.76/btv/SWM/klyuch_hd/klyuch_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", Кто есть кто
+  http://hlstv.kem.211.ru/239.211.211.192/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Кто есть кто 🟥
+  http://127.0.0.1:6878/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0&.mp4
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/IMG_20230503_220239-transformed.png", Лапки Live
   http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Министерство идей
+  https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Мир вокруг
+  http://hlstv.kem.211.ru/239.211.211.73/stream.m3u8
+#EXTINF:-1 group-title="Познавательные", Мир вокруг 🟥
+  http://127.0.0.1:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
+#EXTINF:-1 group-title="Познавательные", МосОбр ТВ
+  http://retc.educom.ru/mosobrtv/tv1/index.m3u8
