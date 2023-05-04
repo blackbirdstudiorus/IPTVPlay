@@ -785,8 +785,6 @@
   http://hlstv.kem.211.ru/239.211.211.67/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Доктор 🟥
   http://127.0.0.1:6878/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&.mp4
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/IMG_20230503_220239-transformed.png", Лапки Live
-  http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Домашние животные
   http://176.222.190.76/btv/SWM/Dom_Jivotnye_SWM/Dom_Jivotnye_SWM.m3u8
 #EXTINF:-1 group-title="Познавательные", ЕГЭ
@@ -799,3 +797,5 @@
   http://176.222.190.76/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Природа HD
   http://hlstv.kem.211.ru/239.211.200.27/stream.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/IPTVPlay/main/IMG_20230503_220239-transformed.png", Лапки Live
+  http://hlstv.kem.211.ru/239.211.211.57/stream.m3u8
