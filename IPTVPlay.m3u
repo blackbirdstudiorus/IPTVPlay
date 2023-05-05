@@ -849,3 +849,15 @@
   http://176.222.190.76/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
+#EXTINF:-1 group-title="Познавательные", Просвещение
+  https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Познавательные", Психология 21
+  http://176.222.190.76/btv/SWM/Psychology21_SWM/Psychology21_SWM.m3u8
+#EXTINF:-1 group-title="Познавательные", Ратник
+  http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", РЖД ТВ
+  http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", РЖД HD
+  http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные", Родной канал 🟧
+  http://185.23.80.26:8080/lb/RodnoyKanal/index.m3u8
