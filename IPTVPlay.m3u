@@ -849,6 +849,8 @@
   http://176.222.190.76/btv/SWM/Teleputeshestviya_HD/Teleputeshestviya_HD.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения HD 🟥
   http://127.0.0.1:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
+#EXTINF:-1 group-title="Познавательные", Про бизнес
+  http://hlstv.kem.211.ru/239.211.211.101/stream.m3u8
 #EXTINF:-1 group-title="Познавательные", Просвещение
   https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные", Психология 21
@@ -871,3 +873,5 @@
   http://188.143.128.22:30001/play/p199
 #EXTINF:-1 group-title="Познавательные", Телепутешествия 🟧
   http://185.23.80.26:8080/lb/Teleputeshestviya/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Успех
+  http://176.222.190.76/btv/SWM/uspeh/uspeh.m3u8
