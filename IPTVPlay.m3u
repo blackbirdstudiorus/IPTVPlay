@@ -861,3 +861,13 @@
   http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные", Родной канал 🟧
   http://185.23.80.26:8080/lb/RodnoyKanal/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Т24
+  http://176.222.190.76/btv/SWM/SWM_Techno24_test/SWM_Techno24.m3u8
+#EXTINF:-1 group-title="Познавательные", Тайны Галактики HD
+  http://176.222.190.76/btv/SWM/tayni_galaktiki_hd/tayni_galaktiki_hd.m3u8
+#EXTINF:-1 group-title="Познавательные", ТВ Экстра
+  http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Телепутешествия
+  http://188.143.128.22:30001/play/p199
+#EXTINF:-1 group-title="Познавательные", Телепутешествия 🟧
+  http://185.23.80.26:8080/lb/Teleputeshestviya/index.m3u8
