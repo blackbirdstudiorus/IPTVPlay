@@ -881,3 +881,11 @@
   https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/720p.m3u8
 #EXTINF:-1 group-title="Новостные" tvg-id="360-news", 360 Новости Full HD
   https://okkotv-live.cdnvideo.ru/channel/360_Novosti_HD/1080p.m3u8
+#EXTINF:-1 group-title="Новостные", Известия
+  https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/480p.m3u8
+#EXTINF:-1 group-title="Новостные", Известия HD
+  https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/720p.m3u8
+#EXTINF:-1 group-title="Новостные" tvg-id="izvestia", Известия Full HD
+  https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:-1 group-title="Новостные", Крик-ТВ
+  http://hlstv.kem.211.ru/239.211.211.127/stream.m3u8
