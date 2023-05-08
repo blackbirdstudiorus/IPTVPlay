@@ -921,3 +921,11 @@
   https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
   http://176.222.190.76/btv/SWM/anekdot_tv/anekdot_tv.m3u8
+#EXTINF:-1 group-title="Развлекательные", Вопросы и ответы
+  http://176.222.190.76/btv/SWM/Voprosy-Otvety_SWM/Voprosy-Otvety_SWM.m3u8
+#EXTINF:-1 group-title="Развлекательные", Время  
+  http://176.222.190.76/btv/SWM/Vremya/Vremya.m3u8
+#EXTINF:-1 group-title="Развлекательные", Глазами туриста 4k
+  http://hlstv.kem.211.ru/239.211.200.61/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные", Глазами туриста HD
+  http://hlstv.kem.211.ru/239.211.200.35/stream.m3u8
