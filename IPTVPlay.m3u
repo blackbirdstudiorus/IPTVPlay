@@ -907,3 +907,7 @@
   http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные", DTX HD
   http://127.0.0.1:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
+#EXTINF:-1 group-title="Развлекательные", Gagsnetwork
+  http://176.74.80.162:8099/Gagsnetwork/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Global Star
+  http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
