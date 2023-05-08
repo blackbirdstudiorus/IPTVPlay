@@ -915,3 +915,9 @@
   http://hlstv.kem.211.ru/239.211.200.62/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные", ID Investigation Discovery
   http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
+#EXTINF:-1 group-title="Развлекательные", San Porto
+  http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", TVM Channel
+  https://federaltv-migra.cdnvideo.ru/tvm_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Анекдот ТВ
+  http://176.222.190.76/btv/SWM/anekdot_tv/anekdot_tv.m3u8
