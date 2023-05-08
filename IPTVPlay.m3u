@@ -903,3 +903,5 @@
   https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", 2x2 HD
   http://hlstv.kem.211.ru/239.211.211.4/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные", DetectiveJam
+  http://hlstv.kem.211.ru/239.211.200.89/stream.m3u8
