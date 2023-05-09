@@ -939,3 +939,5 @@
   https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", КВН ТВ
   http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Ностальгия
+  http://hlstv.kem.211.ru/239.211.211.16/stream.m3u8
