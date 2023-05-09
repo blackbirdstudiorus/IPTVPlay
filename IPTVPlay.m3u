@@ -941,3 +941,13 @@
   http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ностальгия
   http://hlstv.kem.211.ru/239.211.211.16/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные", НТВ Право
+  https://cdn.ntv.ru/th_pravo/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Поехали!
+  http://hlstv.kem.211.ru/239.211.211.102/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные", Продвижение
+  http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Ретро
+  http://37.29.23.129:4000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Сарафан
+  http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
