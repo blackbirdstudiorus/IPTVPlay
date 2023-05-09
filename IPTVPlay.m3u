@@ -913,7 +913,7 @@
   http://live-1.otcnet.ru/globalstar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные", Home 4k
   http://hlstv.kem.211.ru/239.211.200.62/stream.m3u8
-#EXTINF:-1 group-title="Развлекательные", ID Investigation Discovery
+#EXTINF:-1 group-title="Развлекательные" tvg-id="id-xtra-eu", ID Investigation Discovery
   http://mfe01.cliptv.az/dash/HD_lifefkpz375.ism/playlist.mpd
 #EXTINF:-1 group-title="Развлекательные", San Porto
   http://185.23.80.26:8080/lb/SAN_PORTO/index.m3u8
@@ -929,3 +929,13 @@
   http://hlstv.kem.211.ru/239.211.200.61/stream.m3u8
 #EXTINF:-1 group-title="Развлекательные", Глазами туриста HD
   http://hlstv.kem.211.ru/239.211.200.35/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные", Живи активно HD
+  http://94.158.54.107/81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", Зал Суда
+  http://178.160.249.210:8000/play/a2v6/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Здоровое ТВ
+  http://176.222.190.76/btv/SWM/zdorovoe_tv/zdorovoe_tv.m3u8
+#EXTINF:-1 group-title="Развлекательные", Калейдоскоп ТВ
+  https://federaltv-migra.cdnvideo.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлекательные", КВН ТВ
+  http://streamer1.ruslanatv.ru/russia/kvn_2023/playlist.m3u8
