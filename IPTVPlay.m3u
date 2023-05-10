@@ -987,3 +987,27 @@
   https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Ю
   https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+#EXTINF:-1 group-title="Музыкальные", 1HD
+  http://146.158.0.56:80/1HD/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Aiva
+  http://hlstv.kem.211.ru/239.211.200.13/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge
+  https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Classic
+  https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
+  https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Hits
+  https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Rock
+  https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Русский Хит
+  https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="Музыкальные", Bridge Шлягер
+  https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 group-title="Музыкальные", Classic Music
+  http://178.160.249.210:8000/play/a2tr/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", Clubbing TV
+  https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 group-title="Музыкальные", Europa Plus TV
+  http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
