@@ -951,3 +951,15 @@
   http://37.29.23.129:4000/play/a02k/index.m3u8
 #EXTINF:-1 group-title="Развлекательные", Сарафан
   http://hlstv.kem.211.ru/239.211.211.97/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные", Светлое ТВ
+  http://194.158.218.123:8880/SvetloeTV/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", Светлое ТВ HD  
+  http://185.23.80.25:8080/SvetloeTV/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС International
+  http://176.222.190.76/btv/icon/CTC_International/CTC_International.m3u8
+#EXTINF:-1 group-title="Развлекательные", СТС Love
+  http://hlstv.kem.211.ru/239.211.211.99/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные", Суббота! HD
+  http://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Танцуй! 🟧
+  http://176.107.250.4:8002/ch41
