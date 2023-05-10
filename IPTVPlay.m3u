@@ -975,3 +975,15 @@
   https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", ТНТ4 International
   http://176.222.190.76/btv/SWM/TNT4/TNT4.m3u8
+#EXTINF:-1 group-title="Развлекательные", Точка Отрыва
+  http://176.222.190.76/btv/SWM/Tochka_Otriva/Tochka_Otriva.m3u8
+#EXTINF:-1 group-title="Развлекательные", Точка ТВ
+  http://185.52.77.43:8080/TochkaOtriva/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ЦТВ
+  http://176.222.190.76/btv/SWM/tsentralnoetv/tsentralnoetv.m3u8
+#EXTINF:-1 group-title="Развлекательные", Че
+  http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:-1 group-title="Развлекательные", Эхо ТВ
+  https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", Ю
+  https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
