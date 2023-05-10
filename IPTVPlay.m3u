@@ -963,3 +963,15 @@
   http://bl.uma.media/live/317845/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные", Танцуй! 🟧
   http://176.107.250.4:8002/ch41
+#EXTINF:-1 group-title="Развлекательные", ТДК
+  http://91.236.103.35:10110/play/a04n
+#EXTINF:-1 group-title="Развлекательные", Театр
+  http://91.236.103.35:10110/play/a09x
+#EXTINF:-1 group-title="Развлекательные", Театр 🟧
+  http://146.158.0.56:80/Teatr/index.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ4
+  http://hlstv.kem.211.ru/239.211.211.68/stream.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ4 HD
+  https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Развлекательные", ТНТ4 International
+  http://176.222.190.76/btv/SWM/TNT4/TNT4.m3u8
