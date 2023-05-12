@@ -1011,3 +1011,6 @@
   https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 group-title="Музыкальные", Europa Plus TV
   http://hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыкальные", MCM Top
+http://176.222.190.76/btv/SWM/MCM/MCM.m3u8
