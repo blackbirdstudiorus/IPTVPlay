@@ -1018,7 +1018,7 @@
   http://176.222.190.76/btv/SWM/Mezzo_Alt_SWM/Mezzo_Alt_SWM.m3u8
 #EXTINF:-1 group-title="Музыкальные", Mezzo Live
 http://176.107.250.4:8004/ch189
-#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-live-hd", MTV Live
+#EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-live-hd", MTV Live HD
   http://176.222.190.76/btv/SWM/MTV_Russia/MTV_Russia.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://crdtv.net/b/templates/ottch/vh1-european.png", MTV 00's
   http://176.222.190.76/btv/SWM/mtv_00/mtv_00.m3u8
