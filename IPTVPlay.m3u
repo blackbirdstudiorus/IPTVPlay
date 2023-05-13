@@ -991,19 +991,19 @@
   http://146.158.0.56:80/1HD/index.m3u8
 #EXTINF:-1 group-title="Музыкальные", Aiva
   http://hlstv.kem.211.ru/239.211.200.13/stream.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge
+#EXTINF:-1 group-title="Музыкальные", Bridge TV
   https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Classic
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Classic
   https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Deluxe
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Deluxe
   https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Hits
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Hits
   https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Rock
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Rock
   https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Русский Хит
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Русский Хит
   https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
-#EXTINF:-1 group-title="Музыкальные", Bridge Шлягер
+#EXTINF:-1 group-title="Музыкальные", Bridge TV Шлягер
   https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
 #EXTINF:-1 group-title="Музыкальные", Classic Music
   http://178.160.249.210:8000/play/a2tr/index.m3u8
@@ -1020,5 +1020,5 @@
 http://176.107.250.4:8004/ch189
 #EXTINF:-1 group-title="Музыкальные" tvg-id="mtv-live-hd", MTV Live
   http://176.222.190.76/btv/SWM/MTV_Russia/MTV_Russia.m3u8
-#EXTINF:-1 group-title="Музыкальные", MTV 00's
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="https://crdtv.net/b/templates/ottch/vh1-european.png", MTV 00's
   http://176.222.190.76/btv/SWM/mtv_00/mtv_00.m3u8
