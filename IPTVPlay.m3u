@@ -1034,3 +1034,11 @@ http://176.107.250.4:8004/ch189
   http://hlstv.kem.211.ru/239.211.211.85/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные", Russian MusicBox HD
   http://hlstv.kem.211.ru/239.211.200.3/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Song TV Россия
+  https://songtv.hls.iptvdc.com/web-russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="song-tv-ru", Song TV Россия HD
+  https://songtv.hls.iptvdc.com/web-russia/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray CMusic 🟥
+  http://127.0.0.1:6878/ace/m/6f681b446a14339b4958fb3453fee98b8098b24a/56b4d5d1dabafe0092d5ed83e0c402ef.m3u8
+#EXTINF:-1 group-title="Музыкальные", Stingray iConcerts 🟥
+  http://127.0.0.1:6878/ace/m/aca4e2aab3e3dd86ce44fbb0e5d25ddcf256fceb/15ce825ff3b4d97b8431f4ab0deb4fff.m3u8
