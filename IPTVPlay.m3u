@@ -1022,3 +1022,11 @@ http://176.107.250.4:8004/ch189
   http://176.222.190.76/btv/SWM/MTV_Russia/MTV_Russia.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="https://crdtv.net/b/templates/ottch/vh1-european.png", MTV 00's
   http://176.222.190.76/btv/SWM/mtv_00/mtv_00.m3u8
+#EXTINF:-1 group-title="Музыкальные", MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 group-title="Музыкальные", RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 group-title="Музыкальные", RU.TV HD
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="ru-tv", RU.TV Full HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
