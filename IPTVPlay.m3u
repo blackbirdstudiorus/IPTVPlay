@@ -1042,3 +1042,14 @@ http://176.107.250.4:8004/ch189
   http://127.0.0.1:6878/ace/m/6f681b446a14339b4958fb3453fee98b8098b24a/56b4d5d1dabafe0092d5ed83e0c402ef.m3u8
 #EXTINF:-1 group-title="Музыкальные", Stingray iConcerts 🟥
   http://127.0.0.1:6878/ace/m/aca4e2aab3e3dd86ce44fbb0e5d25ddcf256fceb/15ce825ff3b4d97b8431f4ab0deb4fff.m3u8
+#EXTINF:-1 group-title="Музыкальные", Trace Urban HD
+  https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="Музыкальные", Восток ТВ
+http://hlstv.kem.211.ru/239.211.211.117/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Жар Птица
+  http://hlstv.kem.211.ru/239.211.211.155/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Жара
+  http://hlstv.kem.211.ru/239.211.211.113/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-logo="", Жара TV Kids
+  http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
