@@ -1052,3 +1052,11 @@ http://176.107.250.4:8004/ch189
   http://hlstv.kem.211.ru/239.211.211.113/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-logo="%3F%3F%3F%3F_Kids_TV_%28%3F_2020%2C_%3F%3F%3F%3F%29.png", Жара TV Kids
   http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", Ля-минор
+  http://hlstv.kem.211.ru/239.211.211.20/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Музыка первого
+  http://hlstv.kem.211.ru/239.211.211.196/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", О2ТВ
+  http://hlstv.kem.211.ru/239.211.200.36/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", Страна FM
+  http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
