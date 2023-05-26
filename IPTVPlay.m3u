@@ -1060,3 +1060,9 @@ http://176.107.250.4:8004/ch189
   http://hlstv.kem.211.ru/239.211.200.36/stream.m3u8
 #EXTINF:-1 group-title="Музыкальные", Страна FM
   http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", ТНТ Music
+  http://hlstv.kem.211.ru/239.211.211.74/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные", ТНТ Music HD
+  https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Музыкальные", ТНТ Music Full HD
+  https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
