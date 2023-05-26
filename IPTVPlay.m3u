@@ -1066,3 +1066,13 @@ http://176.107.250.4:8004/ch189
   https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные" tvg-id="tnt-music", ТНТ Music Full HD
   https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 group-title="Социально-Политические", RT Doc
+  https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:-1 group-title="Социально-Политические", Вместе-РФ
+  http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Социально-Политические", Дума ТВ
+  https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Социально-Политические", Красная Линия
+  https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Социально-Политические",  ЛДПР ТВ
+  http://hlstv.kem.211.ru/239.211.211.71/stream.m3u8
